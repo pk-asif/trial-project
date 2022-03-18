@@ -1,0 +1,49 @@
+body{
+    font-family: 'Fredoka', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+#colour{
+    color: deeppink;
+}
+.prg1{
+    text-align: left;
+}
+.helf-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.helf-width img{
+    width: 100%;
+}
+#link{
+    background-image: linear-gradient(45deg, rgb(14, 212, 219), rgb(8, 228, 45));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+.top-banner{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+        
+}
+section{
+    height: 500px;
+}
+.secend-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: block;
+}
+.experience-area{
+    float: left;
+width: 40%;
+
+}
